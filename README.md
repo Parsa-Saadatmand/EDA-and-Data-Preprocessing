@@ -33,6 +33,4 @@ jupyter notebook titanic_eda_preprocessing.ipynb
 
 pandas, numpy, matplotlib, seaborn, scikit-learn (for scaling)
 
-## What I'd add next
 
-A model. This notebook stops right before the fun part — the cleaned, encoded, scaled dataset is sitting there ready for logistic regression / random forest / whatever comes next.
